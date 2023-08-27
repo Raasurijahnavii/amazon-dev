@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi all welcome to rasuri family mallesh saritha
+=======
+hi all my dady is my supporter and super hero
+
+>>>>>>> dev
